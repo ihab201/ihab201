@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ihab201
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning ios development 
-- 💞️ I’m looking to collaborate on a project
+- 🌱 I’m currently learning computer vision
 - 📫 How to reach me ihabbennoui@icloud.com
 
 <!---
