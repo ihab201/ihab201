@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ihab201
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning computer vision
-- 📫 How to reach me ihabbennoui@icloud.com
+- 👀 Data Eng
 
 <!---
 ihab201/ihab201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
